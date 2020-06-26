@@ -261,11 +261,11 @@ article {
 }
 
 blockquote {
-    margin: 30px 0;
-    
-    padding: 0;
-    padding-left: 3rem;
-    border: 0;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
     p {
         color: #1a1a1a;
         text-indent: 0;
