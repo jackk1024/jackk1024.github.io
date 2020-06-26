@@ -261,16 +261,16 @@ article {
 }
 
 blockquote {
-    display: block;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 40px;
-    margin-inline-end: 40px;
+    margin: 30px 0;
+    font-style: italic;
+    padding: 0;
+    padding-left: 3rem;
+    border: 0;
     p {
         color: #1a1a1a;
         text-indent: 0;
         line-height: 1.6;
-        font-size: 1em;
+        font-size: $small;
     }
 }
 
