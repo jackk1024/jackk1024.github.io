@@ -1,1 +1,1 @@
-alert('script running');
+console.log('script running');
